@@ -35,6 +35,7 @@ https://fa.wikipedia.org/wiki/%DA%A9%D8%B1%D9%88%D9%86%D8%A7%DB%8C_%D8%AC%D8%AF%
 
 استفاده از افشانه الکل در صورت نبود ژل ضد عفونی کننده، بسیار ارزان
 
+[test](https://www.aparat.com/v/yAbR3)
 
 ## موضوعات سرگرمی و متفرقه
 
