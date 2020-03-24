@@ -10,6 +10,13 @@
     font-style: normal;
 }      
 
+@font-face {
+    font-family: 'Helvetica Neue';
+    src: local('DimaNotoRegular'), url('DimaNotoRegular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}     
+
 .fonted {
   font-family: DimaNotoRegular;
 }
@@ -18,3 +25,4 @@ h1,h2,h3
 {
 	font-family: DimaNotoRegular;
 }
+
