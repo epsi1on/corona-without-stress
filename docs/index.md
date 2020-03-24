@@ -115,7 +115,7 @@
 
 ---
 
-[**دلگرم: آموزش دوخت ماسک به صورت ساده و ابتدایی | ماسک پارچه ای**](https://www.delgarm.com/albume-gallery/etc-picture/207445-%D8%AF%D9%88%D8%AE%D8%AA-%D9%85%D8%A7%D8%B3%DA%A9)
+[**دلگرم: آموزش دوخت ماسک به صورت ساده و ابتدایی  ماسک پارچه ای**](https://www.delgarm.com/albume-gallery/etc-picture/207445-%D8%AF%D9%88%D8%AE%D8%AA-%D9%85%D8%A7%D8%B3%DA%A9)
 
 دوخت ماسک دو لایه، خیلی ساده به همراه الگو و توضیحات
 
