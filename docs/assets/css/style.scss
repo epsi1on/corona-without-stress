@@ -21,3 +21,9 @@
   font-family: DimaNotoRegular;
 }
 
+#main-content h2:before {
+ padding-right:0.3em;
+ margin-left:1.5em;
+ content:"//";
+ color:#9ddcff
+}
