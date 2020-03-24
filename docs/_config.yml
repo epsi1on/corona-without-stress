@@ -3,3 +3,5 @@ dir: rtl
 show_downloads : true
 title: "دایرة المعارف محاوره ای کرونا"
 description: "پیوندهایی که دارای اطلاعاتی و دستور العمل های مفید در رابطه با کویید-۱۹ است"
+
+theme: jekyll-theme-hacker
