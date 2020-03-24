@@ -1,0 +1,15 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+@font-face {
+    font-family: 'DimaNotoRegular';
+    src: local('â˜º'), url('http://www.fontirani.ir/fonts/DimaNotoRegular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}      
+
+.fonted {
+  font-family: DimaNotoRegular;
+}
