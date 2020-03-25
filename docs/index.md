@@ -14,8 +14,7 @@
 
 ---
 
-[**worldometer: Corona Virus Statistics**](https://www.worldometers.info/coronavirus/)
-
+[**وردومتر: آمار ویروس کرونا**](https://www.worldometers.info/coronavirus/)
 اماری از ویروس کرونا و تعداد مبتلایان و سایر امارها به تفکیک کشور
 
 ---
@@ -71,6 +70,8 @@
 [**آپارات: يه راه كار خوب جايگزين نبود ژل ضد عفوني كننده**](https://www.aparat.com/v/yAbR3)
 
 استفاده از افشانه الکل در صورت نبود ژل ضد عفونی کننده، بسیار ارزان
+
+---
 
 [**آپارات: ساخت ماسک کرونا ماسک پارچه ای**](https://www.aparat.com/v/ltNey/%E2%9C%85_%D8%B3%D8%A7%D8%AE%D8%AA_%D9%85%D8%A7%D8%B3%DA%A9_%DA%A9%D8%B1%D9%88%D9%86%D8%A7_-_%D9%85%D8%A7%D8%B3%DA%A9_%D9%BE%D8%A7%D8%B1%DA%86%D9%87_%D8%A7%DB%8C_-)
 
